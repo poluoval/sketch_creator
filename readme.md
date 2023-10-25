@@ -1,0 +1,1 @@
+basic_sketch_generator.ipynb - содержит код для генерации эсскизов.
